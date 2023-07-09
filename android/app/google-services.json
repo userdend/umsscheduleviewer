@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7182710153",
+    "firebase_url": "https://umstimetable.firebaseio.com",
+    "project_id": "umstimetable",
+    "storage_bucket": "umstimetable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7182710153:android:34f253b84b6842ccdd1d58",
+        "android_client_info": {
+          "package_name": "com.userdend.umsscheduleviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7182710153-lg0fplsqbh168qnat5mtn9jgq7pjft2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdKvOA_ekJHeR9Sd1wOMwfQ1Jfd4glGBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7182710153-lg0fplsqbh168qnat5mtn9jgq7pjft2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
